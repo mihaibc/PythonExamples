@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+ApiRequests/api_informations.py
